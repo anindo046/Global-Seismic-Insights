@@ -28,5 +28,7 @@ Environmental sustainability
 
 # How to Reach Me:
 Email: apaul21.glm@bu.ac.bd
+
 LinkedIn: linkedin.com/in/anindo046
+
 GitHub: github.com/anindo046
